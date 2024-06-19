@@ -72,5 +72,3 @@ DEPLOY - INSTRUCCIONES:
 7. Finalmente, obtener el link haciendo clic en el botón "Share"
 
 */
-
-// https://github.com/cuedefox/desafios-backend/blob/main/desafio-05-websockets-and-handlebars/src/routes/viewRealTimeProducts.routes.js
