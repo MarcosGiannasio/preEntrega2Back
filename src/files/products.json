@@ -1,0 +1,35 @@
+[
+	{
+		"title": "sd",
+		"description": "sds",
+		"code": "sd",
+		"price": "1",
+		"estado": "212",
+		"stock": "12",
+		"category": "212",
+		"thumbnail": "src\\public\\images\\Foto Marcos.JPEG",
+		"id": 1
+	},
+	{
+		"title": "11",
+		"description": "1",
+		"code": "1",
+		"price": "1",
+		"estado": "1",
+		"stock": "1",
+		"category": "1",
+		"thumbnail": "src\\public\\images\\SCRUM.jpg",
+		"id": 2
+	},
+	{
+		"title": "1",
+		"description": "1",
+		"code": "1",
+		"price": "1",
+		"estado": "2",
+		"stock": "2",
+		"category": "21",
+		"thumbnail": "src\\public\\images\\Foto Marcos.JPEG",
+		"id": 3
+	}
+]
